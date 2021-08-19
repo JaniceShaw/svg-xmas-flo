@@ -1,4 +1,4 @@
-# SVG ANIMATION
+# SVG CSS ANIMATION
 
 ## Flos Xmas deer
 
